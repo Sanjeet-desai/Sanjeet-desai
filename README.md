@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python & JavaScript
 - 💞️ I’m looking to collaborate on AdTech projects 
 - 📫 How to reach me Linkdin https://www.linkedin.com/in/sanjeet-d-7b1916ab/
-- 😄 Pronouns: {}
-- ⚡ Fun fact: ()
+- ⚡ Fun fact: I hate traveling.....hence I prefer to WFH
 
 <!---
 Sanjeet-desai/Sanjeet-desai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
